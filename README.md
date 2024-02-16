@@ -7,7 +7,7 @@
 ![css](https://github.com/JuCanavans/carta_de_aniversario/assets/103950621/b265c9fd-bbde-4f4d-a09d-574e184aca00)
 
 ## 🌐 Website
-Visit the [Four Card](https://columns-ten.vercel.app/) to explore the live site.
+Visit the [Four Card](https://four-card-phi-nine.vercel.app/) to explore the live site.
 
 Desafio [Frontend Mentor](https://www.frontendmentor.io/profile/JuCanavans)
 
